@@ -1,0 +1,81 @@
+header{
+	height: 200px;
+}
+figure{
+	width: 200px;
+	height: 180px;
+	background-color: #fff;
+	border: 1px solid #dde1e4;
+	margin: 0 20px 20px 0;
+	position: relative;
+	float: left;
+	padding: 8px;
+	box-shadow: 0 0 2px #dde1e4;
+	text-align: center;
+}
+
+.more_button{
+	padding: 20px 0 0 0;
+	float: right;
+
+}
+.more_button a{
+	color: #3990bd;	
+}
+.more_button:hover a{
+	text-decoration: underline;	
+}
+#newNews{
+	padding: 0;
+	margin-bottom: 20px;
+}
+#newNews input, #newNews textarea{
+	width: 250px;
+	height: 25px;
+	max-width: 250px;
+	padding: 3px 5px;
+	margin-bottom: 10px;
+    border: 1px solid #3990bd;
+    border-radius: 5px;
+}
+#newNews textarea{
+	height: 50px;
+}
+#newNews input[type=file]{
+	border: none;
+}
+#newNews input[type=submit], #newNews input[type=reset]{
+	width: 150px;
+}
+#change5{
+	margin-top: 20px;
+	text-align: center;
+	width: 400px;
+	margin: 0 auto;
+}
+#change5 input, #change5 textarea{
+	width: 350px;
+	height: 25px;
+	max-width: 350px;
+	padding: 3px 5px;
+	margin-bottom: 10px;
+    border: 1px solid #3990bd;
+    border-radius: 5px;
+}
+
+#change5 textarea{
+	height: 50px;
+
+}
+#change5 input[type=file]{
+	border: none;
+}
+#change5 input[type=submit], #newNews input[type=submit]{
+	width: 170px;
+}
+#change5 input[type=reset], #newNews input[type=reset]{
+	width: 100px;
+}
+input[type=search]{
+	width: 150px;
+}

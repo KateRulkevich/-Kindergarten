@@ -1,0 +1,1102 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"inf",
+				"info_wrapper	 totalStyle.css"
+			],
+			[
+				"first",
+				"first-of-type	 pseudo selector"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"new",
+				"newBoss"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ba",
+				"background	(admin-styles.css)"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"tab",
+				"table-row"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"texta",
+				"textarea	 element"
+			],
+			[
+				"le",
+				"lecture"
+			],
+			[
+				"style",
+				"style	(learn.css)"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"d",
+				"d:n	display:none"
+			],
+			[
+				"input",
+				"inputr	input - reset"
+			],
+			[
+				"m",
+				"mb	margin-bottom"
+			],
+			[
+				"b-ra",
+				"border-radius"
+			],
+			[
+				"logo",
+				"logo.png	w:124 h:49"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"bg",
+				"bg	background: #${1:000};"
+			],
+			[
+				"aca",
+				"academia"
+			],
+			[
+				"edi",
+				"editorLecture	(learn_lessons.tpl)"
+			],
+			[
+				"email",
+				"email_admin	(model_admin.php)"
+			],
+			[
+				"include",
+				"include_file	(view_learn.php)"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"inclu",
+				"include_file	(basic-tpl.tpl)"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"in",
+				"inputh	input - hidden"
+			],
+			[
+				"row",
+				"rowCount"
+			],
+			[
+				"getD",
+				"getDataAdmins	(admins.php)"
+			],
+			[
+				"updateData",
+				"updateDataSupport	(model_admin.php)"
+			],
+			[
+				"inputt",
+				"inputt	input - text"
+			],
+			[
+				"getMain",
+				"getMainBlocksIds	(model_admin.php)"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"getFAQ",
+				"getFAQValue	(controller_admin.php)"
+			],
+			[
+				"edit",
+				"editFAQValue	(content_faq.tpl)"
+			],
+			[
+				"updateFAQ",
+				"updateFAQValue	(controller_admin.php)"
+			],
+			[
+				"removeF",
+				"removeFAQ	(controller_admin.php)"
+			],
+			[
+				"ro",
+				"rowCount"
+			],
+			[
+				"att",
+				"attr	.attr() - single"
+			],
+			[
+				"swit",
+				"switchItemMenu	(model_admin.php)"
+			],
+			[
+				"swi",
+				"switchMenu	(controller_admin.php)"
+			],
+			[
+				"tit",
+				"title"
+			],
+			[
+				"key",
+				"keywords"
+			],
+			[
+				"is_nul",
+				"is_null()"
+			],
+			[
+				"showFormEdit",
+				"showFormEditMenu"
+			],
+			[
+				"chang",
+				"changeState	(model_admin.php)"
+			],
+			[
+				"change",
+				"changeStateFeedback	(controller_admin.php)"
+			],
+			[
+				"getData",
+				"getDataFeedbackMessade	(model_admin.php)"
+			],
+			[
+				"getFe",
+				"getFeedbackMessage	(controller_admin.php)"
+			],
+			[
+				"feedback",
+				"feedbackMessage	(feedback.tpl)"
+			],
+			[
+				"remove",
+				"removeFeedback	(controller_admin.php)"
+			],
+			[
+				"time",
+				"time()"
+			],
+			[
+				"getDataQ",
+				"getDataQuestionAnswer	(answers.php)"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"forE",
+				"forEach(callback)	Array"
+			],
+			[
+				"getAnswer",
+				"getAnswersStudents	(controller_admin.php)"
+			],
+			[
+				"getDa",
+				"getDataTests	(model_admin.php)"
+			],
+			[
+				"exe",
+				"execute()	PDOStatement"
+			],
+			[
+				"expl",
+				"explode()"
+			],
+			[
+				"domain",
+				"domain_id	(controller_admin.php)"
+			],
+			[
+				"updateDa",
+				"updateDataAnswers	(model_admin_learn_handbook.php)"
+			],
+			[
+				"inputs",
+				"inputsAnswers"
+			],
+			[
+				"find",
+				"find('form"
+			],
+			[
+				"fe",
+				"fetchAll"
+			],
+			[
+				"fore",
+				"forEach"
+			],
+			[
+				"comment",
+				"comment_question"
+			],
+			[
+				"se",
+				"serialize	.serialize()"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"question",
+				"questionComment	(questions.tpl)"
+			],
+			[
+				"is_arra",
+				"is_array()"
+			],
+			[
+				"S",
+				"Students	(students.php)"
+			],
+			[
+				"updateTex",
+				"updateTextTheme	(controller_admin.php)"
+			],
+			[
+				"getTe",
+				"getTextTheme	(controller_admin.php)"
+			],
+			[
+				"cla",
+				"class	Attr"
+			],
+			[
+				"alert",
+				"alert(message)	Window"
+			],
+			[
+				"updat",
+				"updateLecture"
+			],
+			[
+				"upda",
+				"updateLecture	(model_admin_learn_handbook.php)"
+			],
+			[
+				"inde",
+				"indexLesson"
+			],
+			[
+				"fet",
+				"fetchColumn"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"Lea",
+				"Learn_Sections"
+			],
+			[
+				"send",
+				"sendResponse	(model_support.php)"
+			],
+			[
+				"getNam",
+				"getIdNameList	(controller_admin.php)"
+			],
+			[
+				"new_id",
+				"new_id_upper"
+			],
+			[
+				"post",
+				"postfix"
+			],
+			[
+				"strrepl",
+				"str_replace()"
+			],
+			[
+				"extra_",
+				"extra_arg"
+			],
+			[
+				"extra",
+				"extra_arg"
+			],
+			[
+				"getDataLevel",
+				"getDataLevelHandbook"
+			],
+			[
+				"Learn",
+				"Learn_Sections	(learn_sections.php)"
+			],
+			[
+				"getDataL",
+				"getDataLevelChapter	(combine_learn_handbook.php)"
+			],
+			[
+				"ex",
+				"extends	(model_admin.php)"
+			],
+			[
+				"where",
+				"whereId"
+			],
+			[
+				"print",
+				"print_r	(controller_admin.php)"
+			],
+			[
+				"remo",
+				"removeLearnHandbook	(model_admin.php)"
+			],
+			[
+				"domain_i",
+				"domain_id_array"
+			],
+			[
+				"header",
+				"header()"
+			],
+			[
+				"add",
+				"addLearnHandbook	(domain.php)"
+			],
+			[
+				"strto",
+				"strtolower()"
+			],
+			[
+				"toUpp",
+				"strtoupper()"
+			],
+			[
+				"sec",
+				"sec_query_array"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"th",
+				"throw	Throw Exception"
+			],
+			[
+				"level",
+				"level_lesson"
+			],
+			[
+				"bac",
+				"basic_js	(view.php)"
+			],
+			[
+				"ad",
+				"addFeedback	(feedback.php)"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"PDO",
+				"exec()	PDO"
+			],
+			[
+				"pre",
+				"prepare"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "php",
+		"selected_items":
+		[
+			[
+				"php",
+				"Snippet: PHP (HTML): else statement"
+			],
+			[
+				"each",
+				"Snippet: .each()"
+			],
+			[
+				"class",
+				"Snippet: PHP: Documented class"
+			],
+			[
+				"dock",
+				"Snippet: Start Docblock"
+			],
+			[
+				"join",
+				"Emmet: Split\\Join Tag"
+			],
+			[
+				"jquer",
+				"Snippet: jQuery.each"
+			],
+			[
+				"functi",
+				"Snippet: PHP: function definition"
+			],
+			[
+				"jsli",
+				"JSLint"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"lint",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"php if",
+				"Snippet: PHP: if statement"
+			],
+			[
+				"first",
+				"Snippet: :first-child"
+			],
+			[
+				"html",
+				"Snippet: PHP (HTML): if-else statement"
+			],
+			[
+				"linte",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"packe",
+				"Package Control: Enable Package"
+			],
+			[
+				"doc",
+				"Snippet: PHP: Start Docblock"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"lin",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"tag",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Run CSScomb"
+			],
+			[
+				"set syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set Syntax: j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set Syntax: CSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"SublimeCod",
+				"SublimeCodeIntel: Dump Import Directories"
+			],
+			[
+				"SublimeAllAutocomplete",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"auto",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"f",
+				"Format: Javascript"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"forma",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"Indentation: Reindent Lines",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"emmet",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"emme",
+				"Emmet: Remove Tag"
+			],
+			[
+				"autop",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"web",
+				"Web Inspector"
+			],
+			[
+				"syn",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 225.0,
+		"history":
+		[
+			"node -v",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/КАТЯ/OpenServer/domains/grammar.by/css/main.css",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/css/handbook.css",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/css/learn.css",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/css/support.css",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/models/admin.php",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/controllers/controller_admin.php",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/css/basic-styles.css",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/app/controllers/controller_admin.php",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/views/admin.tpl",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/views/accordion_template.tpl",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/views/accordion_group_template.tpl",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/views/global.tpl",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/views/extra_course.tpl",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/views/error.tpl",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/css/contact_page.css",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/views/contact.tpl",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/views/photo.tpl",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/views/proposal.tpl",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/css/totalStyle.css",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/views/main.tpl",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/css/main_page.css",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/css/second_page.css",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/css/news_page.css",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/css/photo_page.css",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/views/news.tpl",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/views/article_template.tpl",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/views/jobs.tpl",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/views/collective.tpl",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/views/boss_template.tpl",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/views/aside_template.tpl",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/models/images.php",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/core/view.php",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/controllers/controller_photo.php",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/libs/identity.php",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/libs/selecting.php",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/js/libs/jquery.js",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/js/libs/flexSlider/jquery.flexslider.js",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/core/controller.php",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/js/libs/flexSlider/jquery.flexslider-min.js",
+		"/D/КАТЯ/OpenServer/domains/ddu558.by/app/controllers/controller_main.php",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/sidebar.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/admin-tpl.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/basic-tpl.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/css/admin-styles.css",
+		"/C/Users/Lenovo/AppData/Local/Temp/Rar$DIa0.109/controller_photo.php",
+		"/C/Users/Lenovo/AppData/Local/Temp/Rar$DIa0.803/route.php",
+		"/C/Users/Lenovo/AppData/Local/Temp/Rar$DIa0.973/selecting.php",
+		"/C/Users/Lenovo/AppData/Local/Temp/Rar$DIa0.384/identity.php",
+		"/C/Users/Lenovo/AppData/Local/Temp/Rar$DIa0.362/file_upload.php",
+		"/C/Users/Lenovo/AppData/Local/Temp/Rar$DIa0.349/images.php",
+		"/C/Users/Lenovo/AppData/Local/Temp/Rar$DIa0.156/bosses.php",
+		"/C/Users/Lenovo/AppData/Local/Temp/Rar$DIa0.789/index.php",
+		"/C/Users/Lenovo/AppData/Local/Temp/Rar$DIa0.917/config.php",
+		"/C/Users/Lenovo/AppData/Local/Temp/Rar$DIa0.466/selecting.php",
+		"/C/Users/Lenovo/AppData/Local/Temp/Rar$DIa0.154/identity.php",
+		"/C/Users/Lenovo/AppData/Local/Temp/Rar$DIa0.415/controller_photo.php",
+		"/C/Users/Lenovo/AppData/Local/Temp/Rar$DIa0.149/controller.php",
+		"/C/Users/Lenovo/AppData/Local/Temp/Rar$DIa0.569/controller_photo.php",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/app/views/view_learn.php",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/app/views/view_handbook.php",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/user/profile.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/admin/students.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/js/admin-scripts.js",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/admin/questions.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/admin/content_main.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/admin/menu.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/admin/content_support.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/admin/tests_students.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/admin/feedback.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/admin/admins.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/admin/learn_sections.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/admin/learn_lessons.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/admin/handbook_chapters.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/admin/handbook_themes.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/admin/learn_levels.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/user/support.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/user/learn.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/css/about.css",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/user/handbook.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/css/lecture.css",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/user/test.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/css/test.css",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/user/lecture.tpl",
+		"/D/КАТЯ/OpenServer/domains/grammar.by/tpl/user/main.tpl",
+		"/I/OpenServer/domains/grammar.by/tpl/user/support.tpl",
+		"/I/OpenServer/domains/grammar.by/css/basic-styles.css",
+		"/I/OpenServer/domains/grammar.by/css/handbook.css",
+		"/I/OpenServer/domains/grammar.by/css/about.css",
+		"/I/OpenServer/domains/grammar.by/css/support.css",
+		"/I/OpenServer/domains/grammar.by/app/views/view_learn.php",
+		"/I/OpenServer/domains/grammar.by/tpl/user/handbook.tpl",
+		"/I/OpenServer/domains/grammar.by/app/views/view_handbook.php",
+		"/I/OpenServer/domains/grammar.by/tpl/user/test.tpl",
+		"/I/OpenServer/domains/grammar.by/css/test.css",
+		"/I/OpenServer/domains/grammar.by/tpl/user/lecture.tpl",
+		"/I/OpenServer/domains/grammar.by/css/lecture.css",
+		"/I/OpenServer/domains/grammar.by/tpl/user/about.tpl",
+		"/I/OpenServer/domains/grammar.by/css/learn.css",
+		"/I/OpenServer/domains/grammar.by/tpl/user/learn.tpl",
+		"/I/OpenServer/domains/grammar.by/tpl/user/main.tpl",
+		"/I/OpenServer/domains/grammar.by/css/main.css",
+		"/I/OpenServer/domains/grammar.by/tpl/basic-tpl.tpl",
+		"/I/OpenServer/domains/grammar.by/js/basic-scripts.js",
+		"/I/OpenServer/domains/grammar.by/app/core/view.php",
+		"/I/OpenServer/domains/grammar.by/tpl/admin-tpl.tpl",
+		"/I/OpenServer/domains/grammar.by/tpl/sidebar.tpl",
+		"/H/OpenServer/domains/grammar.by/app/models/domains/tests_students.php",
+		"/H/OpenServer/domains/grammar.by/tpl/user/about.tpl",
+		"/H/OpenServer/domains/grammar.by/app/views/view_support.php",
+		"/H/OpenServer/domains/grammar.by/css/basic-styles.css",
+		"/H/OpenServer/domains/grammar.by/app/models/model_about.php",
+		"/H/OpenServer/domains/grammar.by/app/libs/updating.php",
+		"/H/OpenServer/domains/grammar.by/app/libs/selecting.php",
+		"/H/OpenServer/domains/grammar.by/app/libs/identity.php",
+		"/H/OpenServer/domains/grammar.by/app/models/model_profile.php",
+		"/H/OpenServer/domains/grammar.by/tpl/basic-tpl.tpl",
+		"/H/OpenServer/domains/grammar.by/css/main.css",
+		"/H/OpenServer/domains/grammar.by/tpl/user/main.tpl",
+		"/H/OpenServer/domains/grammar.by/fonts/AcademiaRoma/preview.html",
+		"/I/OpenServer/domains/learn-grammar.by/index.php",
+		"/I/OpenServer/domains/grammar.by/app/libs/identity.php",
+		"/I/OpenServer/domains/grammar.by/app/libs/selecting.php",
+		"/I/OpenServer/domains/grammar.by/app/models/domains/tests_students.php",
+		"/I/OpenServer/domains/grammar.by/tpl/user/profile.tpl",
+		"/I/OpenServer/domains/grammar.by/app/models/model_profile.php",
+		"/I/OpenServer/domains/grammar.by/app/controllers/controller_profile.php",
+		"/I/OpenServer/domains/grammar.by/app/models/domains/menu.php",
+		"/I/OpenServer/domains/grammar.by/app/views/view_profile.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"назад",
+			"slideShowLink",
+			"generate",
+			"выйти",
+			"active-menu-aside",
+			"выйти",
+			"Краткий комментарий",
+			"feedbackMessage",
+			"linkStateFeedback",
+			"table-test-student",
+			"testStudent",
+			"linkGrade",
+			"ответы",
+			"inputsAnswers",
+			"transfer-link",
+			"title",
+			"and",
+			"inline",
+			"edit_",
+			"edit_men",
+			"model_admin",
+			"model_admin_lh_handle_answers",
+			"model_admin_lh_handle_questions",
+			"Model_Admin_LH_Handle_Text",
+			"LH_Handler",
+			"Model_Admin_Learn_Handbook",
+			"\\app\\models",
+			"pdo",
+			"data",
+			"$stmt = $this->pdo->prepare($query_array[0]);\n			$stmt->execute($query_array[1]);\n			",
+			"each",
+			"></",
+			"chec",
+			"console",
+			"cond",
+			"req",
+			"getDataLectu",
+			"response",
+			"<?",
+			"fetchColumn",
+			"		\n",
+			"}\n",
+			");\n",
+			"getSec",
+			"getLev",
+			"        $",
+			"<?",
+			"tool",
+			"__construct",
+			"tool",
+			"properties",
+			"<br>",
+			"prin",
+			"echo",
+			"print_",
+			"push",
+			");\n",
+			"and",
+			"enforceField",
+			"Identity",
+			"qs",
+			"();\n",
+			"<span>",
+			"circle",
+			"circle ",
+			"text_of",
+			"kist",
+			"plashka",
+			"catalog",
+			"plashka",
+			"circle",
+			"plashka",
+			"<div class=\"show_pos text_of\">slide show</div>",
+			"50px",
+			"10px",
+			"750px",
+			"350px",
+			"easeOutback",
+			"src",
+			"TextPlugin",
+			"css",
+			"ctrl+alt+c",
+			"+f\"",
+			"+f",
+			"<p",
+			"p",
+			">\n",
+			"\n	",
+			">\n",
+			"mq",
+			"only all",
+			"mq",
+			"load",
+			"	<",
+			"=\"",
+			"</li>",
+			"src = \"ssl,\"",
+			"src",
+			"i/nav2c.jpg",
+			"</li>\n			<li>\n				<a href=\"#\">:)</a>\n			</li>\n			<img src=\"i/nav2h.jpg\">\n			",
+			"				</",
+			"					",
+			"				<",
+			"a href=\"#\">\n					<span>Главная</span>\n				<"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"			\n",
+			"		});",
+			"@keyframes dasharray {\n    90%\n    {\n        stroke-dasharray: 550 0;\n    }\n}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "config.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"i",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

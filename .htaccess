@@ -1,0 +1,16 @@
+﻿php_value upload_max_filesize 20M
+php_value post_max_size 20M
+
+SetEnv TZ Europe/Minsk
+
+php_value display_errors 1
+php_value display_startup_errors 1
+
+AddDefaultCharset UTF-8
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule .* index.php [L]
+
+php_value session.gc_maxlifetime 1000000

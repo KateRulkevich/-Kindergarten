@@ -1,0 +1,90 @@
+
+.more_button{
+	padding: 20px 0 0 0;
+	float: right;
+
+}
+.more_button a{
+	color: #3990bd;	
+}
+.more_button:hover a{
+	text-decoration: underline;	
+}
+.right_content .more_button{
+	margin-right: 5px;
+	margin-bottom: 10px;
+}
+.full_news{
+	margin: 20px 0;
+	overflow: hidden;
+}
+.full_news .more_button{
+	padding: 0;
+
+}
+
+figure{
+	width: 129px;
+	background-color: #fff;
+	border: 1px solid #dde1e4;
+	margin: 0 20px 20px 0;
+	position: relative;
+	float: left;
+	padding: 8px;
+	box-shadow: 0 0 2px #dde1e4;
+	text-align: center;
+}
+figure:nth-child(odd){
+	margin-right: 0;
+}
+figure img{
+	border: 1px solid #dde1e4;
+}
+
+figcaption h3{
+	font-family: "Open Sans",serif;
+    color: #363636;	
+    font-size: 0.8em;
+}
+.full_news figure{
+	margin-right: 20px;
+}
+
+blockquote {
+	border-left: 2px solid #3990bd;
+	padding-left:1px;
+	margin: 10px 10px 10px 40px;
+}
+blockquote p{
+	border-left: 1px solid #3990bd;
+	padding-left: 5px;
+
+}
+div .icon_block{
+	font-size: 1.3em;
+}
+.slogan_block{
+	width: 400px;
+	color: #fff;
+	font-size: 2em;
+	text-shadow: 0 1px 1px rgba(0,0,0,0.5);
+	margin-top: 50px;
+	float: left;
+}
+.slogan_block p:nth-of-type(2){
+	font-size: 0.7em;
+	float: right;
+}
+.foto_block{
+	width: 500px;
+	float: right;
+	margin-top: -25px;
+
+}
+
+.adminis_info h3{
+	text-align: center;
+}
+.send_message{
+	top: 45%;
+}

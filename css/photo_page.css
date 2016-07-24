@@ -1,0 +1,80 @@
+
+header{
+	height: 200px;
+}
+.left_content{
+	width: 690px;
+
+}
+
+.right_content {
+	width: 250px;
+	float: right;
+}
+.right_content .info_wrapper{
+ 	width: 250px;
+ 	padding: 0 10px;
+ 	background: url(../img/left_line.png) left top repeat-y,
+ 				url(../img/right_line.png) right top repeat-y  #f7f7f8;
+ 	overflow: hidden;
+}
+
+
+.left_content .info_text{
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.left_content .info_text .article_title {
+	background: none;
+	text-align: left;
+	padding: 10px 0 0 0;
+	border: none;
+	box-shadow: none;
+	margin-bottom: 0;
+}
+.icon_block{
+	font-size: 1.3em;
+}
+.adminis_info h2{
+	margin-bottom: 10px;
+/*	font-size: 1em;*/
+}
+figure{
+	width: 180px;
+
+	background-color: #fff;
+	padding: 5px;
+	border: 1px solid #dde1e4;
+	box-shadow: 0 0 2px #dde1e4;
+	float: left;
+	margin: 20px 20px 0 0;
+	overflow: hidden;
+}
+.align_logo_menu .bottom_border{
+	width: 60%;
+}
+.bottom_border{
+	width: 52%;
+}
+.ledt_content input[type=text]{
+	width: 200px;
+	height: 25px;
+	max-width: 250px;
+	padding: 3px 5px;
+	margin-bottom: 10px;
+    border: 1px solid #3990bd;
+    border-radius: 5px;
+}
+input[type=search]{
+	width: 150px;
+}
+.see_slides{
+	margin-top: 50px;
+
+	background: #2e84b2;
+	padding: 5px 10px;
+}
+.see_slides a{
+	color: #fff;	
+}
